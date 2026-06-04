@@ -1,0 +1,21 @@
+{
+  "name": "proyecto_final_innovacion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilianoym/Proyecto_Final_Innovacion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/emilianoym/Proyecto_Final_Innovacion/issues"
+  },
+  "homepage": "https://github.com/emilianoym/Proyecto_Final_Innovacion#readme"
+}
